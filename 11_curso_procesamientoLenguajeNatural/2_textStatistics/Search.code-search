@@ -1,0 +1,7 @@
+# Query: [a-zA-Z0-9\\.]
+# Flags: CaseSensitive RegExp
+# Including: apuntes.txt
+# ContextLines: 1
+
+
+  

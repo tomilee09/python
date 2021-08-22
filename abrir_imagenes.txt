@@ -1,0 +1,2 @@
+abrir XLaunch
+escribir en la terminal "export DISPLAY=:0"
