@@ -1,3 +1,4 @@
+# esto calcula el valor de pi mediante el método de Monte Carlo
 import random
 
 def put_needles(number_needles):
