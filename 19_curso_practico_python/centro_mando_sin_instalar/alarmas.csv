@@ -1,0 +1,13 @@
+,minuto,motivo,hora
+0,42,pa probar,16.0
+1,52,pa probar,16.0
+2,54,otro pa probar,16.0
+3,10,probar sonido,17.0
+4,11,probar alarma de nuevo,18.0
+5,16,probar os.path.join(),18.0
+6,25,probar sin os con raiz \\,18.0
+7,26,asdasa,18.0
+8,28,probando,18.0
+9,30,sdksds,18.0
+10,14,probar con mixer de pygame,19.0
+11,52,pa que suene nomas sinceramente,8.0

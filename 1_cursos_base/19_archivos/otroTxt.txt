@@ -1,0 +1,2 @@
+hola
+esto se escribe al final de mi archivo original

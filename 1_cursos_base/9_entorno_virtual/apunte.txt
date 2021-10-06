@@ -1,0 +1,19 @@
+El entorno virtual sirve pa cuando se este creando algo que quieres
+que no re rompa con el paso de las actualizaciones de las dependencias
+
+Lo que hace es crear un entorno donde tengas librerias solo pa ese 
+programa, no de forma global
+
+se crea con el siguiente conmando
+
+(en la carperta donde se quiere crear el enviroment):
+python3 -m venv miEnviroment
+
+Con lo anterior se creó un enviroment llamado "miEnviroment", para 
+activarlo se debe poner lo siguiente:
+
+(esto dentro de miEnviroment/bin)
+source activate (activate es un archivo por si acaso)
+
+para desactivar el entorno virtual se debe poner:
+deactivate
