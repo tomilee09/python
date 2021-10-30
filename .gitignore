@@ -2,3 +2,7 @@
 __pycache__
 *.wav
 *.egg-info
+venv
+.vscode
+*.avi
+*.mp4

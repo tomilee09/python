@@ -1,0 +1,1 @@
+Este curso es solo de estructuras lineales, todas se crean con clases, asi que lo veo como "curso de aplicaciones a clases de python"
