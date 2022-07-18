@@ -6,3 +6,8 @@ venv
 .vscode
 *.avi
 *.mp4
+*.ipynb_checkpoints
+*.RData
+*.Rhistory
+*.pdf
+organizacion
