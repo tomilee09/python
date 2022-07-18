@@ -1,6 +1,7 @@
+# modificado porque los valores de los diccionarios eran no mostrables
 dictionary = {
-    'yo': "soy yo po y que tanto",
-    'lore': "la beibi ma hermosa",
+    'yo': "soy yo",
+    'lore': "la lore",
     'canela_y_luly': "las mejores perritas",
 }
 
